@@ -47,7 +47,7 @@ const questions=[
         {text:"4080000cm",correct:false}
                     ]
      }         
-                }
+                
 ];
 const questionElement=document.getElementById('question');
 const answerButtons=document.getElementById('answer-buttons');
