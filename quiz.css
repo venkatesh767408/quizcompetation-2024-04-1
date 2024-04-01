@@ -10,6 +10,16 @@ body{
     background-position: center;*/
     background-color: rgb(120, 82, 244);
 }
+#wel{
+    font-family: "Times New Roman", Times, serif;
+    font-size: medium;
+    background-color: aquamarine;
+    text-decoration: double;
+}
+#intro{
+    background-color: aquamarine;
+    box-sizing: 20px 20px;
+}
 .app{
     background-color:#fff;
     width:90%;
