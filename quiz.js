@@ -31,22 +31,22 @@ const questions=[
         {  
             question:"if 9th august 1945 is wednesday what was the day on 9th august 1949",
                 answers:[
-            {text:"monday",correct:false},
-            {text:"wednesday",correct:true},
+            {text:"monday",correct:true},
+            {text:"wednesday",correct:false},
             {text:"sunday",correct:false},
             {text:"Tuesday",correct:false}
                 ]
             
      },
      {  
-        question:"what is 34% of 12km",
+        question:"what is 34% of 12km interms of cm",
          answers:[
          {text:"408000cm",correct:true},
         {text:"40800cm",correct:false},
-        {text:"400800",correct:false},
-        {text:"4080000",correct:false}
+        {text:"400800km",correct:false},
+        {text:"4080000cm",correct:false}
                     ]
-                
+     }         
                 }
 ];
 const questionElement=document.getElementById('question');
