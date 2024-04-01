@@ -29,7 +29,7 @@ const questions=[
         
         },
         {  
-            question:"if 9th august 1945 is wednesday what was the day on 9th august 1949",
+            question:"if 9th august 1945 is Thursday what was the day on 9th august 1949",
                 answers:[
             {text:"monday",correct:false},
             {text:"wednesday",correct:false},
