@@ -103,7 +103,7 @@ function selectAnswer(e){
 }
 function showscore(){
     resetstate();
-    question.innerHTML=`your scored ${score} out of ${questions.length}`;
+    question.innerHTML=`you scored ${score} out of ${questions.length}`;
     nextbutton.innerHTML=`play again`;
     nextbutton.style.display="block";
 }
